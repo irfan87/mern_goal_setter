@@ -1,0 +1,14 @@
+{
+  "name": "mern_tutorial",
+  "version": "1.0.0",
+  "description": "a simple MERN goal setter app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Ahmad Irfan Mohammad Shukri",
+  "license": "MIT"
+}
